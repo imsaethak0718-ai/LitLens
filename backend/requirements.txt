@@ -1,0 +1,17 @@
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Settings & Validation
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# Database & Storage Client (Supabase)
+supabase==2.11.0
+
+# Testing
+pytest==8.3.4
+httpx==0.28.1
+
+# Document Processing (Prepared for subsequent phases)
+PyMuPDF==1.25.1
